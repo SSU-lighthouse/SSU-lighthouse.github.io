@@ -12,12 +12,13 @@
 
 ## 아트워크 
 <div class="image-row">
-  <img src="images/오프닝2.jpg" alt="images/오프닝2.jpg" >
-  <img src="images/오프닝4.jpg alt="images/오프닝4.jpg" >
-  <img src="images/지도.png" >
-  <img src="images/turtle.gif" >
-  <img src="images/니모.png" >
-  <img src="images/test.png" >
+  <img src="images/오프닝2.jpg" alt="오프닝2">
+  <img src="images/오프닝4.jpg" alt="오프닝4">
+  <img src="images/지도.png" alt="지도">
+  <img src="images/turtle.gif" alt="turtle">
+  <img src="images/니모.png" alt="니모">
+  <img src="images/test.png" alt="test">
+</div>
 
 
 
