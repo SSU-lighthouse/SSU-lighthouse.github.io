@@ -15,7 +15,7 @@
   <img src="images/Opening2.jpg" alt="Opening2">
   <img src="images/Opening4.jpg" alt="Opening4">
   <img src="images/map.png" alt="map">
-  <img src="images/turtle.gif" alt="turtle">
+  <img src="images/turtle talk1.gif" alt="turtle talk1">
   <img src="images/nimo.png" alt="nimo">
   <img src="images/test.png" alt="test">
 </div>
