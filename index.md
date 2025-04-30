@@ -15,7 +15,7 @@
   <img src="images/오프닝2.jpg" alt="images/오프닝2.jpg" >
   <img src="images/오프닝4.jpg alt="images/오프닝4.jpg" >
   <img src="images/지도.png" >
-  <img src="images/거북이 대사1.gif" >
+  <img src="images/turtle.gif" >
   <img src="images/니모.png" >
   <img src="images/test.png" >
 
