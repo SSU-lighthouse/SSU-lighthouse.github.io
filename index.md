@@ -1,10 +1,3 @@
-
-<body>
-  <hr>
-  <img src = "images/Ex01.jpg" alt = "Example 001" style="display: block; margin: auto;">
-</body>
-
-
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
@@ -19,7 +12,14 @@
 
 ## 아트워크 
 <div class="image-row">
+  <img src="오프닝2.jpg" >
+  <img src="오프닝4.jpg" >
+  <img src="지도.png" >
+  <img src="거북이 대사1.gif" >
+  <img src="니모.png" >
   <img src="images/test.png" >
+
+
 
 </code></pre>
 
