@@ -19,10 +19,13 @@
 
 ## 아트워크 
 <div class="image-row">
+  # 오프닝
   <img src="images/Opening2.jpg" alt="Opening2">
   <img src="images/Opening4.jpg" alt="Opening4">
+  # 메인 스토리
   <img src="images/map.png" alt="map">
   <img src="images/turtle talk1.gif" alt="turtle talk1">
+  # 진행 과정
   <img src="images/test.png" alt="test">
 </div>
 
