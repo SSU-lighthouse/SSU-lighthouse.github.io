@@ -9,6 +9,13 @@
 </div>
 
 
+## 팀원 소개
+  <div class="content has-text-justified">
+    김민지
+    문혜정
+    서나진
+  </div>
+
 
 ## 아트워크 
 <div class="image-row">
