@@ -18,21 +18,9 @@
 
 <!-- Dataset Download Buttons -->
 
-## 아트 워크 
-We provide 80% of the scenes for training and learning. The remaining scenes are used for online evaluation.
+## 아트워크 
 ### Patchify images (512x512)
-For efficient training and learning, we provide patchified images. 
-![Uploading 지도 완성샷.png…]()
 
-
-### Full-resolution images (4032x3024)
-<div class="buttons" style="text-align: center; margin-top: 1em;">
-  <a class="button is-primary" href="https://drive.google.com/file/d/1s_gUw1DCqokihl3YtO3lu9_GnLZaSElI/view?usp=sharing" target="_blank">Train</a>
-  <a class="button is-primary" href="https://drive.google.com/file/d/1OHxG8Jh0goKIhkJTe9NXZ6uIuD5qVaNH/view?usp=sharing" target="_blank">Validation</a>
-</div>
-
-
-  year      = {2025}
 }
 </code></pre>
 
