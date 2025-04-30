@@ -1,7 +1,7 @@
 
 <body>
   <hr>
-  <img src = "/images/오프닝2" alt = "Example 001" style="display: block; margin: auto;">
+  <img src = "images/Ex01.jpg" alt = "Example 001" style="display: block; margin: auto;">
 </body>
 
 
@@ -18,7 +18,8 @@
 
 
 ## 아트워크 
-
+<div class="image-row">
+  <img src="images/test.png" >
 
 </code></pre>
 
