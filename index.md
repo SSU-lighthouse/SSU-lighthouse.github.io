@@ -16,11 +16,9 @@
 </div>
 
 
-<!-- Dataset Download Buttons -->
 
 ## 아트워크 
-### Patchify images (512x512)
 
-}
+
 </code></pre>
 
