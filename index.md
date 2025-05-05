@@ -34,6 +34,7 @@
   <img src="쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도" style="width: 200px;" />
   <img src="조개 구상도.png" alt="조개 구상도" style="width: 200px;" />
 </div>
+
   <br>
   <h3>진행 과정</h3>
   <img src="images/test.png" alt="test">
