@@ -1,3 +1,6 @@
+<div class="container-lg px-3 my-5 markdown-body">
+  <h1>COLOR : FULL</h1>
+
 <!-- Using HTML to center the abstract -->
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
