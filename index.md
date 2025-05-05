@@ -27,12 +27,13 @@
   <img src="images/Opening4.jpg" alt="Opening4">
   <br>
   <h3>메인 스토리</h3>
-  <img src="images/map.png" alt="map">
-  <img src="images/니모 구상도.png" alt="니모 구상도">
-  <img src="images/거북 구상도.png" alt="거북 구상도">
-  <img src="images/가오리 보물찾기 구상도2.png" alt="가오리 보물찾기 구상도2">
-  <img src="images/쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도">
-  <img src="images/조개 구상도.png" alt="조개 구상도">
+  <div style="display: flex; gap: 20px;">
+  <img src="니모 구상도.png" alt="니모 구상도" style="width: 200px;" />
+  <img src="거북 구상도.png" alt="거북 구상도" style="width: 200px;" />
+  <img src="가오리 보물찾기 구상도2.png" alt="가오리 보물찾기 구상도2" style="width: 200px;" />
+  <img src="쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도" style="width: 200px;" />
+  <img src="조개 구상도.png" alt="조개 구상도" style="width: 200px;" />
+</div>
   <br>
   <h3>진행 과정</h3>
   <img src="images/test.png" alt="test">
