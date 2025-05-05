@@ -52,7 +52,7 @@
       <div class="team-member">
         <h3>김민지</h3>
         <ul>
-          <li>@naver.com</li>
+          <li>mm.diii1789@gmail.com</li>
         </ul>
       </div>
       <div class="team-member">
