@@ -20,8 +20,6 @@
 <br>
 
 ## 아트워크 
-<h2>아트워크</h2>
-
 <h3>오프닝</h3>
 <div class="image-row">
   <img src="images/Opening2.jpg" alt="Opening2">
