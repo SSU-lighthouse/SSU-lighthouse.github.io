@@ -20,13 +20,13 @@
 <br>
 
 ## 아트워크 
-<h3>오프닝</h3>
+<h3><li>오프닝</li></h3>
 <div class="image-row">
   <img src="images/Opening2.jpg" alt="Opening2">
   <img src="images/Opening4.jpg" alt="Opening4">
 </div>
 
-<h3>메인 스토리</h3>
+<h3><li>메인 스토리</li></h3>
 <div class="image-row" style="display: flex; gap: 20px;">
   <img src="images/니모%20구상도.png" alt="니모 구상도" style="width: 1080px;" />
   <img src="images/거북%20구상도.png" alt="거북 구상도" style="width: 1080px;" />
@@ -35,7 +35,7 @@
   <img src="images/조개%20구상도.png" alt="조개 구상도" style="width: 1080px;" />
 </div>
 
-<h3>진행 예시</h3>
+<h3><li>진행 예시</li></h3>
 <div class="image-row" style="display: flex; gap: 20px;">
   <img src="images/전시 예시.jpg" alt="전시 예시" style="width: 502px;">
   <img src="images/전시 예시2.jpg" alt="전시 예시2" style=" width: 502px;">
