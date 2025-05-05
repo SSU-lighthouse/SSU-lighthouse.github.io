@@ -20,27 +20,28 @@
 <br>
 
 ## 아트워크 
+<h2>아트워크</h2>
+
+<h3>오프닝</h3>
 <div class="image-row">
-  <br>
-  <h3>오프닝</h3>
   <img src="images/Opening2.jpg" alt="Opening2">
   <img src="images/Opening4.jpg" alt="Opening4">
-  <br>
-  <h3>메인 스토리</h3>
-  <div style="display: flex; gap: 20px;">
-  <img src="니모 구상도.png" alt="니모 구상도" style="width: 200px;" />
-  <img src="거북 구상도.png" alt="거북 구상도" style="width: 200px;" />
-  <img src="가오리 보물찾기 구상도2.png" alt="가오리 보물찾기 구상도2" style="width: 200px;" />
-  <img src="쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도" style="width: 200px;" />
-  <img src="조개 구상도.png" alt="조개 구상도" style="width: 200px;" />
 </div>
 
-  <br>
-  <h3>진행 과정</h3>
+<h3>메인 스토리</h3>
+<div class="image-row" style="display: flex; gap: 20px;">
+  <img src="images/니모%20구상도.png" alt="니모 구상도" style="width: 200px;" />
+  <img src="images/거북%20구상도.png" alt="거북 구상도" style="width: 200px;" />
+  <img src="images/가오리%20보물찾기%20구상도2.png" alt="가오리 보물찾기 구상도2" style="width: 200px;" />
+  <img src="images/쿨쿨문어%20구상도.png" alt="쿨쿨문어 구상도" style="width: 200px;" />
+  <img src="images/조개%20구상도.png" alt="조개 구상도" style="width: 200px;" />
+</div>
+
+<h3>진행 과정</h3>
+<div class="image-row">
   <img src="images/test.png" alt="test">
 </div>
 
-<br>
 
 ## 팀원 소개
   <div class="content has-text-justified">
