@@ -27,12 +27,12 @@
 </div>
 
 <h3><li>메인 스토리</li></h3>
-<div class="image-row" style="display: flex; gap: 20px;">
-  <img src="images/니모%20구상도.png" alt="니모 구상도" style="width: 1080px;" />
-  <img src="images/거북%20구상도.png" alt="거북 구상도" style="width: 1080px;" />
-  <img src="images/가오리%20보물찾기%20구상도2.png" alt="가오리 보물찾기 구상도2" style="width: 1080px;" />
-  <img src="images/쿨쿨문어%20구상도.png" alt="쿨쿨문어 구상도" style="width: 1080px;" />
-  <img src="images/조개%20구상도.png" alt="조개 구상도" style="width: 1080px;" />
+<div class="image-row">
+  <img src="images/니모%20구상도.png" alt="니모 구상도" >
+  <img src="images/거북%20구상도.png" alt="거북 구상도" >
+  <img src="images/가오리%20보물찾기%20구상도2.png" alt="가오리 보물찾기 구상도2" >
+  <img src="images/쿨쿨문어%20구상도.png" alt="쿨쿨문어 구상도" >
+  <img src="images/조개%20구상도.png" alt="조개 구상도" />
 </div>
 
 <h3><li>진행 예시</li></h3>
