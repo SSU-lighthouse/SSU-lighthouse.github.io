@@ -25,7 +25,7 @@
   <h3>메인 스토리</h3>
   <img src="images/map.png" alt="map">
   <img src="images/turtle talk1.gif" alt="turtle talk1">
-  <img src="images/octopus.png" alt="octopus">
+  <img src="images/쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도">
   <h3>진행 과정</h3>
   <img src="images/test.png" alt="test">
 </div>
