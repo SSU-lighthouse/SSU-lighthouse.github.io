@@ -7,7 +7,7 @@
     </div>
   </div>
 </div>
-
+<br>
 <div class="columns is-centered has-text-centered">
   <div class="column is-four-fifths">
     <h2>기획 의도</h2>
@@ -17,11 +17,30 @@
     </div>
   </div>
 </div>
+<br>
+
+## 아트워크 
+<div class="image-row">
+  <br>
+  <h3>오프닝</h3>
+  <img src="images/Opening2.jpg" alt="Opening2">
+  <img src="images/Opening4.jpg" alt="Opening4">
+  <br>
+  <h3>메인 스토리</h3>
+  <img src="images/map.png" alt="map">
+  <img src="images/turtle talk1.gif" alt="turtle talk1">
+  <img src="images/가오리 보물찾기 구상도2.png" alt="가오리 보물찾기 구상도2">
+  <img src="images/쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도">
+  <br>
+  <h3>진행 과정</h3>
+  <img src="images/test.png" alt="test">
+</div>
+
+<br>
 
 ## 팀원 소개
   <div class="content has-text-justified">
       <section>
-    <hr />
     <div class="team-list">
       <div class="team-member">
         <h3>김민지</h3>
@@ -32,7 +51,7 @@
       <div class="team-member">
         <h3>문혜정</h3>
         <ul>
-          <li>@naver.com</a></li>
+          <li>mhj2522@naver.com</a></li>
         </ul>
       </div>
       <div class="team-member">
@@ -44,23 +63,6 @@
     </div>
   </section>
   </div>
-
-
-## 아트워크 
-<div class="image-row">
-  <h3>오프닝</h3>
-  <img src="images/Opening2.jpg" alt="Opening2">
-  <img src="images/Opening4.jpg" alt="Opening4">
-  <h3>메인 스토리</h3>
-  <img src="images/map.png" alt="map">
-  <img src="images/turtle talk1.gif" alt="turtle talk1">
-  <img src="images/가오리 보물찾기 구상도2.png" alt="가오리 보물찾기 구상도2">
-  <img src="images/쿨쿨문어 구상도.png" alt="쿨쿨문어 구상도">
-  <h3>진행 과정</h3>
-  <img src="images/test.png" alt="test">
-</div>
-
-
 
 </code></pre>
 
