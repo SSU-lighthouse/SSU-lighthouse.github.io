@@ -49,19 +49,19 @@
       <div class="team-member">
         <h3>김민지</h3>
         <ul>
-          <li>@naver.com</a></li>
+          <li>@naver.com</li>
         </ul>
       </div>
       <div class="team-member">
         <h3>문혜정</h3>
         <ul>
-          <li>mhj2522@naver.com</a></li>
+          <li>mhj2522@naver.com</li>
         </ul>
       </div>
       <div class="team-member">
         <h3>서나진</h3>
         <ul>
-          <li>@naver.com</a></li>
+          <li>tjskwls0804@naver.com</li>
         </ul>
       </div>
     </div>
