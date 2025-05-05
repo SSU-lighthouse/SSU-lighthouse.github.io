@@ -37,8 +37,8 @@
 
 <h3>진행 예시</h3>
 <div class="image-row" style="display: flex; gap: 20px;">
-  <img src="images/전시 예시.jpg" alt="전시 예시" style="width: 505px;">
-  <img src="images/전시 예시2.jpg" alt="전시 예시2" style=" width: 505px;">
+  <img src="images/전시 예시.jpg" alt="전시 예시" style="width: 525px;">
+  <img src="images/전시 예시2.jpg" alt="전시 예시2" style=" width: 502px;">
   <img src="images/test.png" alt="test style="width: 30px;">
 </div>
 
