@@ -37,7 +37,7 @@
 
 <h3>진행 예시</h3>
 <div class="image-row">
-  <img src="images/전시 예시.png" alt="전시예시">
+  <img src="images/전시 예시.png" alt="전시 예시">
   <img src="images/test.png" alt="test">
 </div>
 
