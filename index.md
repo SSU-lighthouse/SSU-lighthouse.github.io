@@ -3,7 +3,7 @@
   <div class="column is-four-fifths">
     <h2>작품 개요</h2>
     <div class="content has-text-justified">
-      COLOR : FULL은 목소리를 색으로 표현하는 인터랙티브 미디어아트입니다.
+      <strong>COLOR : FULL</strong>은 목소리를 색으로 표현하는 인터랙티브 미디어아트입니다.
     </div>
   </div>
 </div>
