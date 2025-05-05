@@ -42,7 +42,7 @@
 </div>
 
 
-## 팀원 소개
+## 등대 팀원 소개
   <div class="content has-text-justified">
       <section>
     <div class="team-list">
